@@ -10,6 +10,7 @@ let self = {};
 * @param {*} res
 * @returns JSON
 */
+
 self.getAll = async (req, res) => {
     try {
         let data = await project.findAll({
