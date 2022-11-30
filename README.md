@@ -8,4 +8,4 @@
 
 > Make sure to hae MySQL Workbench setup onto your system.
 
-[Read the blog here](https://medium.com/@vinayak-singh/creating-crud-apis-with-node-js-and-sequelize-cli-8b90e8784422)
+[Read the blog here]()

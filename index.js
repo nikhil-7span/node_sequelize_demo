@@ -15,7 +15,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to vinayak's application." });
+  res.json({ message: "Welcome to Sequelize application." });
 });
 
 app.use('/api/users', users);
